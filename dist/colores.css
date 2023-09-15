@@ -1,0 +1,12 @@
+.white{
+    background-color: rgb(255, 240, 251);
+}
+
+.black{
+    background-color: rgb(228, 33, 140);
+}
+
+div {
+    width: 20px;
+    height: 20px;
+}
